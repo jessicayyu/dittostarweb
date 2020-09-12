@@ -1,0 +1,4 @@
+[0910/020239.402:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[0910/020601.612:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Yanshu\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0910/020601.622:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0910/020601.645:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Yanshu\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Access is denied. (0x5)
